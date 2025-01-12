@@ -17,8 +17,8 @@ public class BaseHelper {
     protected static final String MEMBERS_PATH = "/members";
     protected static final String ORGANIZATIONS_PATH = "/organizations";
     
-    private static final String TRELLO_API_KEY = "2b1d10226bacb9877838d9344dcc4a01";
-    private static final String TRELLO_TOKEN = "ATTAd3586089b4bec7352d71295da6938bded21b51071aa39039e23647f40d763f14883663DF";
+    private static final String TRELLO_API_KEY = "";
+    private static final String TRELLO_TOKEN = "";
 
     public BaseHelper() {
         spec = new RequestSpecBuilder()
